@@ -19,3 +19,7 @@ A compact board featuring the RP2350 microcontroller and ICM-20948 9-axis motion
 2. Programme the MPU.
 3. Use ICM-20948 libraries for sensor data.
 4. Have fun!
+
+## Board image
+
+![IMG_20251109_120531~2](https://github.com/user-attachments/assets/b71cc9d1-6950-4ebc-9352-9304a43dbdc8)
